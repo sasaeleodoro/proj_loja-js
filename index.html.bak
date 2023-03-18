@@ -30,7 +30,7 @@
 			</div>
 		</nav>
 			<div class="row"> 
-				<div class="col-sm-3">
+				<div class="001-sm-3">
 					<!--Tag de navegação-->
 					<nav class="nav bg-light navbar-light">
 						<!--Divisão de componente-->
@@ -55,7 +55,7 @@
 							</div>
 						</nav>
 					</div>
-				<div class="col-sm-9">
+				<div class="001-sm-9">
 			<h1>HardGym</h1>
 		</div>
 		</div>
