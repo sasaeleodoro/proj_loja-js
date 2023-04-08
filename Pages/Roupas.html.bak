@@ -49,10 +49,10 @@
 											<a class="nav-link" href="#">roupas</a>
 									</li>
 									<li class="nav-item">
-											<a class="nav-link" href="calcados.html">Calçados</a>
+											<a class="nav-link" href="Calcados.html">Calçados</a>
 									</li>
 									<li class="nav-item">
-											<a class="nav-link" href="acessorios.html">Acessórios</a>
+											<a class="nav-link" href="Acessorios.html">Acessorios</a>
 									</li>
 								</ul>
 							</div>
@@ -70,22 +70,22 @@
 						</div>
 					<div>
 				<div class="float-left m-2 col-4">
-					<img src="C:\Users\Aluno\Desktop\Screenshot_1.jpg" Height=400px>
+					<img src= Height=400px>
 				</div>
 				</div>
 			<div>
 				<div class="float-left m-2 col-4">
-					<img src="A:\Prof.Gustavo Ferreira\Turma SA 1030\Ana Beatriz\proj_loja-js\imagens\Acessorios\418Z45wAJnL._SL500_.jpg" Height=400px>
+					<img src="..\imagens\Roupas\academia-conjunto-masculino-conjuntos-masculinos-roupas-de-malhar-academia-rashguard-jiu-jitsu-roupa-academia-masculino-terno.jpg_640x640.jpg" Height=400px>
 				</div>
 			</div>
 				<div>
 					<div class="float-left m-2 col-4">
-						<img src="A:\Prof.Gustavo Ferreira\Turma SA 1030\Ana Beatriz\proj_loja-js\imagens\Acessorios\D_NQ_NP_916790-MLB44840002927_022021-O.jpg" Height=400px>
+						<img src="..\imagens\Roupas\calça-cinza-para-academia.jpg" Height=400px>
 					</div>
 				</div>
 			<div>
 				<div class="float-left m-2 col-4">
-					<img src="A:\Prof.Gustavo Ferreira\Turma SA 1030\Ana Beatriz\proj_loja-js\imagens\Acessorios\Hcd996e4139db4d9e9c35e9a835eec3e0F.jpg" Height=400px WIDTH=400px >
+					<img src="..\imagens\Roupas\fika grande.jpg" Height=400px >
 				</div>
 			</div>
 		</div>

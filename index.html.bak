@@ -46,13 +46,14 @@
 											<a class="nav-link" href="#">home</a>
 									</li>
 									<li class="nav-item">
-											<a class="nav-link" href="pages/roupas.html">roupas</a>
+											<a class="nav-link" href="pages/Roupas.html">roupas</a>
 									</li>
 									<li class="nav-item">
-											<a class="nav-link" href="pages/calcados.html">Calçados</a>
+											<a class="nav-link" href="pages/Calcados.html">Calçados</a>
+											<a class="nav-link" href="pages/Calcados.html">Calçados</a>
 									</li>
 									<li class="nav-item">
-											<a class="nav-link" href="pages/Acessorios.html">Acessórios</a>
+											<a class="nav-link" href="pages/Acessorios.html">Acessorios</a>
 									</li>
 								</ul>
 							</div>
