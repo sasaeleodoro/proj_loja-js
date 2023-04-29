@@ -109,14 +109,14 @@
 						<a class="btn btn-success" href="produtos/Tenis-Rebook.html">Comprar</a>
 					</div>
 					<div class="float-left m-2 col-sm-3">
-						<h3>Tenis addidas RunFalcon</h3>
-						<a href="produtos/Tenis.html"> <img src="../img/calcados/runfalcon.jpg" type="img/jpg" alt="Run Falcon" width="auto" height="150px"/></a>
+						<h3>Tenis adidas RunFalcon</h3>
+						<img src="../img/calcados/runfalcon.jpg" type="img/jpg" alt="Run Falcon" width="auto" height="150px"/>
 					<p>Um confortavel tenis para exercicios</p>
 					<div class="row">
 							<p class="col-sm-6"><i><b>R$ 449,99</b></i></p>
 							<p class="col-sm-6">❤❤❤❤🤍</p>
 						</div>
-						<a class="btn btn-success" href="produtos/Tenis.html">Comprar</a>
+						<a class="btn btn-success" href="#">Comprar</a>
 					</div>
 				</div>
 			</div>
