@@ -62,7 +62,7 @@
 			<div class="col-sm-9">
 				<h1>HardGym - Acessórios</h1>
 				<div class="row">
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-4">
 						<h3>Faixa elastica </h3>
 						<img src="../img/acessorios/faixinhas.jpg" type="img/jpg" alt="faixa" width="auto" height="150px"/>
 					<p>Faixa de treino</p>
@@ -72,7 +72,7 @@
 						</div>
 						<a class="btn btn-success" href="produtos/Faixa.html">Comprar</a>
 					</div>
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-4">
 						<h3>Coqueteleira darkness</h3>
 						<img src="../img/acessorios/cuqueteleira.jpg" type="img/jpg" alt="coqueteleira" width="auto" height="150px"/>
 					<p>Coqueteleira para whey </p>
@@ -82,7 +82,7 @@
 						</div>
 						<a class="btn btn-success" href="produtos/Coqueteleira.html">Comprar</a>
 					</div>
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-4">
 						<h3>Fone de ouvido bluetooth </h3>
 						<img src="../img/acessorios/fonin.jpg" type="img/jpg" alt="fone de ouvido" width="auto" height="150px"/>
 						<p>Fone bluetooth (a prova d'água) </p>
@@ -92,7 +92,7 @@
 						</div>
 						<a class="btn btn-success" href="produtos/Fonin.html">Comprar</a>
 					</div>
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-4">
 						<h3>Lancheira </h3>
 						<img src="../img/acessorios/lanchinho.jpg" type="img/jpg" alt="lancheira" width="auto" height="150px"/>
 					<p>Lancheira termica (3 bolsos)  </p>
@@ -102,7 +102,7 @@
 						</div>
 						<a class="btn btn-success" href="produtos/Lancheira.html">Comprar</a>
 					</div>
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-4">
 						<h3>Munhequeira </h3>
 						<img src="../img/acessorios/mão.jpg" type="img/jpg" alt="munhequeira" width="auto" height="150px"/>
 					<p>Luva para exercicios </p>
