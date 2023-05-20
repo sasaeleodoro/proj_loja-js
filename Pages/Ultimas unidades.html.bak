@@ -2,11 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8"/>
-		<meta name="author" content="Ana e Sarah">
-		<meta name="viewport" content="windth=device-width,initial-scale=1,0">
-		<meta name="keywords" content="Acessorios de academia, casual, acessorios, academia, roupa fitness, saúde, health, saudavel">
-		<meta name="description" content="A maneira certa de encontrar suas roupas para a jornada de saúdavel está aqui. A HardGym possui os melhores preços e melhores marcas para que seus treinos sejam o melhor possivel, sempre com conforto e economia no bolço. Clique e faça-nos uma visita."/>
-		<title>HardGym | Acessorios</title>
+		<title>HardGym | Novidades</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 		<link rel="apple-touch-icon" sizes="180x180" href="../img/Favicon/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="../img/Favicon/favicon-32x32.png">
@@ -24,18 +20,18 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item">
+					<li class="nav-item active">
 						<!--Link vazio-->
 						<a class="nav-link" href="../index.html">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="roupas.html">Roupas</a>
+						<a class="nav-link" href="Roupas.html">Roupas</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="calcados.html">Calçados</a>
 					</li>
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Acessórios</a>
+					<li class="nav-item">
+						<a class="nav-link" href="acessorios.html">Acessórios</a>
 					</li>
 				</ul>
 			</div>
@@ -51,23 +47,23 @@
 							<!--item da lista-->
 							<li class="nav-item active">
 								<!--Link vazio-->
-								<a class="nav-link" href="../pages/novidades.html">Novidades</a>
+								<a class="nav-link" href="#">Novidades</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="../Pages\Promoções.html">Promoções</a>
+								<a class="nav-link" href="#">Promoções</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="../Pages/Mais-Vendidos.html">Mais vendidos</a>
+								<a class="nav-link" href="#">Mais vendidos</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="../Pages\Ultimas unidades.html">Últimas unidades</a>
+								<a class="nav-link" href="#">Últimas unidades</a>
 							</li>
 						</ul>
 					</div>
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym - Acessórios</h1>
+				<h1>HardGym - Ultimas Unidades</h1>
 				<div class="row">
 					<div class="float-left m-2 col-sm-3">
 						<h3>Faixa elastica </h3>
